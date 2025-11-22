@@ -4,4 +4,4 @@
 
 Схема подключения периферийных модулей к LoraNode868_RFM95:
 
-![LoraNode868_RFM95](photo_03.jpg "LoraNode868_RFM95")
+![LoraNode868_RFM95](Photo_03.jpg "LoraNode868_RFM95")
