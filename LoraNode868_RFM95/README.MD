@@ -38,3 +38,8 @@
 | Monitor Pin | GPIO 25 |  |
 | LED_PIN | GPIO 2 | Синий светодиод |
 | BEEP | ---- | Не используется |
+
+
+Внешний вид модуля ESP32_DEVKIT_V1 (30pin):
+
+![ESP32_DEVKIT_V](Photo_04.png "ESP32_DEVKIT_V")
