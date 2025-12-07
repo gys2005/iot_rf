@@ -1,6 +1,6 @@
 Внешний вид платы LoraNode868_RA62:
 
-![LoraNode868_RA62](photo_01.jpg "LoraNode868_RA62")
+![LoraNode868_RA62](photo_01.png "LoraNode868_RA62")
 
 Схема подключения периферийных модулей к LoraNode868_RA62:
 
