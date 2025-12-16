@@ -1,14 +1,15 @@
+Доработка модуля LoraNode868_RA01 под установку HT-RA62 (чип SX1262 на 868МГц):
 
-Для LoraNode868 после у:
-
-![LoraNode868_RA01_RA62](Photo_01.jpg "LoraNode868_RA01_RA62")
-
-Схема подключения периферийных модулей к LoraNode868_RA62:
+Шаг 1. Удалить два резистора 0 Ом в соответствии с эскизом:
 
 ![LoraNode868_RA01_RA62](Photo_02.jpg "LoraNode868_RA01_RA62")
 
-Внешний вид модуля ESP32_DEVKIT_V1 (30pin):
+Шаг 2. Выполнить перемычку (линия BUSY) между модулем HT-RA62 (контакт ХХ) и ESP32 (контакт YY) в соответствии с эскизом:
 
-![LoraNode868_RA01_RA62](Photo_04.png "LoraNode868_RA01_RA62")
+![LoraNode868_RA01_RA62](Photo_03.jpg "LoraNode868_RA01_RA62")
+
+Шаг 3. Выполнить перемычку (линия BUSY) между модулем HT-RA62 (контакт ХХ) и ESP32 (контакт YY) в соответствии с эскизом:
+
+![LoraNode868_RA01_RA62](Photo_01.jpg "LoraNode868_RA01_RA62")
 
 
