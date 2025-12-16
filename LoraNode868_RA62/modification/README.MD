@@ -8,7 +8,7 @@
 
 ![LoraNode868_RA01_RA62](Photo_03.jpg "LoraNode868_RA01_RA62")
 
-Шаг 3. Выполнить перемычку (линия BUSY) между модулем HT-RA62 (контакт ХХ) и ESP32 (контакт YY) в соответствии с эскизом:
+Шаг 3. Выполнить загрузку прошивки https://mrekin.duckdns.org/flasher/?t=meshtastic-diy-v1-dio2-ru:
 
 ![LoraNode868_RA01_RA62](Photo_01.jpg "LoraNode868_RA01_RA62")
 
