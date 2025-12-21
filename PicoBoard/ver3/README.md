@@ -1,3 +1,12 @@
+Внешний вид платы Pico Board v.3:
+
+![PicoBoard_ver3](Photo_01.png "PicoBoard_ver3")
+
+Схема подключения периферийных модулей к Pico Board v.3:
+
+![PicoBoard_ver3](Photo_02.png "PicoBoard_ver3")
+
+
 Распиновка портов ввода-вывода RPi Pico
 ==========================================
 
