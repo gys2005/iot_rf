@@ -48,4 +48,4 @@
 ![ESP32_DEVKIT_V](Photo_04.png "ESP32_DEVKIT_V")
 
 
-Upd.(16.12.25): имеется возмжность провести [установку радиомодулей](.LoraNode433_RA01/modification) HT-RA62 на плату LoraNode433_RA01. 
+Upd.(16.12.25): имеется возмжность провести [установку радиомодулей](.modification) HT-RA62 на плату LoraNode433_RA01. 
