@@ -3,6 +3,9 @@
 
 ![LoraNode868_RA62](Photo_01.png "LoraNode868_RA62")
 
+
+Upd.(20.01.26): Прошивку можно взять здесь https://mrekin.duckdns.org/flasher/?t=meshtastic-diy-v1-dio2-ru
+
 Схема подключения периферийных модулей к LoraNode868_RA62:
 
 ![LoraNode868_RA62](Photo_02.jpg "LoraNode868_RFM95")
