@@ -10,7 +10,7 @@ Upd.(20.01.26): Прошивку можно взять здесь https://mrekin
 
 ![LoraNode868_RA62](Photo_02.jpg "LoraNode868_RFM95")
 
-Схема подключения периферийных модулей к LoraNode868_RA62:
+Схема электрическая принципиальная LoraNode868_RA62:
 
 ![LoraNode868_RA62](Photo_03.png "LoraNode868_RFM95")
 
