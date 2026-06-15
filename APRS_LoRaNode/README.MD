@@ -2,9 +2,13 @@
 
 ![APRS_LoraNode](Photo_01.png "APRS_LoraNode")
 
+Схема электрическая принципиальная APRS_LoraNode:
+
+![APRS_LoraNode](Photo_02.png "APRS_LoraNode")
+
 Схема подключения периферийных модулей к APRS_LoraNode:
 
-![APRS_LoraNode](Photo_02.jpg "APRS_LoraNode")
+![APRS_LoraNode](Photo_03.png "APRS_LoraNode")
 
 Распиновка портов ввода-вывода ESP32 APRS_LoraNode
 ==========================================
@@ -46,7 +50,7 @@
 
 Внешний вид модуля APRS_LoraNode:
 
-![APRS_LoraNode](Photo_03.png "APRS_LoraNode")
+![APRS_LoraNode](Photo_04.png "APRS_LoraNode")
 
 
 
