@@ -54,5 +54,5 @@ Upd.(01.07.26): Добавлена модель корпуса в формате
 
 Внешний вид модуля ESP32_DEVKIT_V1 (30pin):
 
-![ESP32_DEVKIT_V](Photo_04.png "ESP32_DEVKIT_V")
+![ESP32_DEVKIT_V](Photo_05.png "ESP32_DEVKIT_V")
 
